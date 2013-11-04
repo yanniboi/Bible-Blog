@@ -1,0 +1,38 @@
+/* Global */
+
+a {
+  text-decoration: none;
+}
+
+/* Index */
+
+.home-template #site-head-content {
+  background: #3A4145;
+  padding: 20px 0;
+}
+
+/* Post */
+
+.post-template .author img {
+  float: left;
+  border-radius: 100%;
+}
+
+.post-template .post-header #blog-logo .title {
+  text-align: center;
+  background: #3A4145;
+}
+
+.post-template .post-header a,
+.post-template .post-header a:hover {
+  color: #ffffff;
+}
+
+.post-template #blog-logo img {
+  height: auto;
+  max-width: 100%;
+  max-height: inherit;
+  width: inherit;
+}
+
+
